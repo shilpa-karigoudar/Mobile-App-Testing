@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="246" started-at="2021-01-19T06:54:47Z" finished-at="2021-01-19T06:54:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="246" started-at="2021-01-19T06:54:47Z" finished-at="2021-01-19T06:54:47Z">
+      <class name="driver_add">
+        <test-method status="PASS" signature="testAdd(java.util.Map)[pri:0, instance:driver_add@42d80b78]" name="testAdd" duration-ms="11" started-at="2021-01-19T12:24:47Z" data-provider="dp_add" finished-at="2021-01-19T12:24:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{res=5.0, s1=2.0, s2=3.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method status="PASS" signature="testAdd(java.util.Map)[pri:0, instance:driver_add@42d80b78]" name="testAdd" duration-ms="1" started-at="2021-01-19T12:24:47Z" data-provider="dp_add" finished-at="2021-01-19T12:24:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{res=8.0, s1=3.0, s2=4.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method status="PASS" signature="testAdd(java.util.Map)[pri:0, instance:driver_add@42d80b78]" name="testAdd" duration-ms="1" started-at="2021-01-19T12:24:47Z" data-provider="dp_add" finished-at="2021-01-19T12:24:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{res=10.0, s1=4.0, s2=5.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method status="PASS" signature="testAdd(java.util.Map)[pri:0, instance:driver_add@42d80b78]" name="testAdd" duration-ms="2" started-at="2021-01-19T12:24:47Z" data-provider="dp_add" finished-at="2021-01-19T12:24:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{res=11.0, s1=5.0, s2=6.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method status="PASS" signature="testAdd(java.util.Map)[pri:0, instance:driver_add@42d80b78]" name="testAdd" duration-ms="1" started-at="2021-01-19T12:24:47Z" data-provider="dp_add" finished-at="2021-01-19T12:24:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{res=13.0, s1=6.0, s2=7.0}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+      </class> <!-- driver_add -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
