@@ -68,12 +68,6 @@ public class Base_mort {
 			 Thread.sleep(4000);
 			 System.out.println("Stopped the Server");
 			 
-		 }
-		
-		
+		 }	
 	}
-	
-	
-	
-	
 }

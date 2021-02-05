@@ -9,6 +9,7 @@ public class B extends A{
 		
 		System.out.println("Child Class Constructor");
 	}
+	
 	public B(int i){
 		super(i);   
 		

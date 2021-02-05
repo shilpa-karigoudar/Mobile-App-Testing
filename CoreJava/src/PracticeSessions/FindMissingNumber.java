@@ -4,7 +4,7 @@ public class FindMissingNumber {
 
 	public static void main(String[] args) {
 
-// 1+2+3+4+5=15
+		// 1+2+3+4+5=15
 		//1+2+4+5=12
 		//15-12=3
 		

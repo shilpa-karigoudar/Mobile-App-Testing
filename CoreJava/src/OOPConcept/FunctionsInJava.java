@@ -14,9 +14,11 @@ public class FunctionsInJava {
 
 		System.out.println("Division Value :" +val);
 	}
+	
 	//non static methods
 	//void - does not return anything
-			public void test(){ // no input , no output
+	
+		public void test(){ // no input , no output
 			System.out.println("Test Method");	
 			}
 			

@@ -6,6 +6,7 @@ public class OverloadStaticMethod {
 
 
 		BMW1 b=new BMW1();
+		
 		b.start(); // warning as its a static methos and it has to be called by classname
 		
 		Car1.start(10);
